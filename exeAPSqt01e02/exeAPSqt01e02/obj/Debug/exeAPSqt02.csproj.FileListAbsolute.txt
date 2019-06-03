@@ -1,0 +1,7 @@
+C:\Users\Felipe\source\repos\exeAPSqt02\exeAPSqt02\obj\Debug\exeAPSqt02.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\exeAPSqt02\exeAPSqt02\obj\Debug\exeAPSqt02.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\exeAPSqt02\exeAPSqt02\bin\Debug\exeAPSqt02.exe.config
+C:\Users\Felipe\source\repos\exeAPSqt02\exeAPSqt02\bin\Debug\exeAPSqt02.exe
+C:\Users\Felipe\source\repos\exeAPSqt02\exeAPSqt02\bin\Debug\exeAPSqt02.pdb
+C:\Users\Felipe\source\repos\exeAPSqt02\exeAPSqt02\obj\Debug\exeAPSqt02.exe
+C:\Users\Felipe\source\repos\exeAPSqt02\exeAPSqt02\obj\Debug\exeAPSqt02.pdb
