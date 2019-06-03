@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exeAPSqt11", "exeAPSqt11\exeAPSqt11.csproj", "{D3840071-3DC9-43F1-B1D3-EB4B3A86336B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3840071-3DC9-43F1-B1D3-EB4B3A86336B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3840071-3DC9-43F1-B1D3-EB4B3A86336B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3840071-3DC9-43F1-B1D3-EB4B3A86336B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3840071-3DC9-43F1-B1D3-EB4B3A86336B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11A15706-C3A0-46D8-82C6-BD275FAE0BA7}
+	EndGlobalSection
+EndGlobal
